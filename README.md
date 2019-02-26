@@ -1,6 +1,27 @@
 # Image Resizer
 
-[TODO. There will be project description]
+The script for resizing images.
+
+# Install
+Run pip for install dependencies:
+
+```
+$ pip install -r requirements.txt
+```
+
+# Usage
+
+To run the script type following in terminal:
+
+```bash
+$ python image_resize.py --scale 2 example.png
+```
+
+More details available by help key:
+
+```bash
+$ python image_resize.py -h
+```
 
 # Project Goals
 
